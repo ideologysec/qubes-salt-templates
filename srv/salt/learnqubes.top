@@ -1,0 +1,6 @@
+base:
+  dom0:
+    - fancy-template
+
+  fancy-template:
+    - make-my-fancy-system
