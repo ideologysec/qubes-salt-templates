@@ -1,0 +1,6 @@
+base:
+  dom0:
+    - ovpn.ovpn-template
+
+  ovpn-template:
+    - make-my-fancy-system
